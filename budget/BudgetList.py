@@ -1,7 +1,6 @@
 
 # %%
-from . import Expense
-# import Expense
+from budget import Expense
 import matplotlib.pyplot as plt
 
 # %%
